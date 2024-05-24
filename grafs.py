@@ -33,7 +33,7 @@ f= lambda x: lin_reg.slope()*x+lin_reg.intercept()
 
 
 
-x=np.linspace(0,1,1000)
+x=np.linspace(0,22,1000)
 
 fig, ax= plt.subplots(2,1, figsize=(6,8))
 
